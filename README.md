@@ -1,16 +1,5 @@
 ![Página HOME da aplicação](https://i.imgur.com/aufKyUA.png)
 
-<p align="center">
-  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licença">Licença</a>
-</p>
-
-<br>
-
 ## :computer: Projeto
 
 Este projeto consiste na criação de uma aplicação cujo objetivo é funcionar como um marketplace entre empresas/organizações e pessoas para a coleta de resíduos recicláveis. Esta aplicação faz parte da semana **Next Level Week** promovida pela **Rocketseat**
