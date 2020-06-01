@@ -11,30 +11,30 @@
 
 <br>
 
-## :computer: [Projeto](#projeto)
+## :computer: Projeto
 
 Este projeto consiste na criação de uma aplicação cujo objetivo é funcionar como um marketplace entre empresas/organizações e pessoas para a coleta de resíduos recicláveis. Esta aplicação faz parte da semana **Next Level Week** promovida pela **Rocketseat**
 
-## :rocket: [Tecnologias](#tecnologias)
+## :rocket: Tecnologias
 
 - Javascript / Typescript
 - [NodeJS](https://nodejs.org/en/)
 - [ReactJS](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 
-## :hammer: [Backend](#backend)
+## :hammer: Backend
 
 > #### Em construção
 
-## :globe_with_meridians: [Frontend](#frontend)
+## :globe_with_meridians: Frontend
 
 > #### Em construção
 
-## :iphone: [Mobile](#mobile)
+## :iphone: Mobile
 
 > #### Em construção
 
-## :memo: [Licença](#licença)
+## :memo: Licença
 
 Projeto sob a licença [MIT](https://choosealicense.com/licenses/mit/). Para mais detalhes acesse [LICENSE](LICENSE.md)
 
