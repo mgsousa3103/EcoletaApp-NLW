@@ -36,6 +36,6 @@ Este projeto consiste na criação de uma aplicação cujo objetivo é funcionar
 
 ## :memo: [Licença](#licença)
 
-Projeto sob a licença [MIT](https://choosealicense.com/licenses/mit/). Para mais detalhes acesse [LICENSE](LICENSE.md)
+> Projeto sob a licença [MIT](https://choosealicense.com/licenses/mit/). Para mais detalhes acesse [LICENSE](LICENSE.md)
 
 Made by [Matheus Guedes](https://www.linkedin.com/in/matheusgsousa/)
