@@ -1,4 +1,4 @@
-[Página HOME da aplicação](https://i.imgur.com/aufKyUA.png)
+![Página HOME da aplicação](https://i.imgur.com/aufKyUA.png)
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
