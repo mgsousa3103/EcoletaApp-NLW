@@ -1,6 +1,6 @@
 ![Página HOME da aplicação](https://i.imgur.com/aufKyUA.png)
 
-<center>![](https://img.shields.io/github/issues/mgsousa3103/ecoleta-app-nlw) ![](https://img.shields.io/github/forks/mgsousa3103/ecoleta-app-nlw) ![](https://img.shields.io/github/stars/mgsousa3103/ecoleta-app-nlw) ![](https://img.shields.io/github/license/mgsousa3103/ecoleta-app-nlw)</center>
+![](https://img.shields.io/github/issues/mgsousa3103/ecoleta-app-nlw) ![](https://img.shields.io/github/forks/mgsousa3103/ecoleta-app-nlw) ![](https://img.shields.io/github/stars/mgsousa3103/ecoleta-app-nlw) ![](https://img.shields.io/github/license/mgsousa3103/ecoleta-app-nlw)
 
 # :computer: Projeto
 
