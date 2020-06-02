@@ -1,4 +1,4 @@
-![Página HOME da aplicação](https://i.imgur.com/aufKyUA.png)
+![Página home da aplicação](https://user-images.githubusercontent.com/22710485/83574923-d5953880-a504-11ea-8ab9-5b1eb837d9dd.png)
 
 ![](https://img.shields.io/github/issues/mgsousa3103/ecoleta-app-nlw) ![](https://img.shields.io/github/forks/mgsousa3103/ecoleta-app-nlw) ![](https://img.shields.io/github/stars/mgsousa3103/ecoleta-app-nlw) ![](https://img.shields.io/github/license/mgsousa3103/ecoleta-app-nlw)
 
