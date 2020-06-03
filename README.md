@@ -49,7 +49,7 @@ Este comando gerará a tabela **items** com as imagens que estão na pasta **upl
 
 ---
 
-###### Tendo feito os passsos acima, sua aplicação já estará funcionando.
+###### Tendo feito os passos acima, sua aplicação já estará funcionando.
 
 # :globe_with_meridians: Frontend
 
