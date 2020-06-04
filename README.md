@@ -15,21 +15,33 @@ Este projeto consiste na criação de uma aplicação cujo objetivo é funcionar
 
 # :hammer: Backend
 
-O projeto utiliza NodeJS. Faça o download do repositório ou realize um `git clone` para sua máquina. Esta aplicação utiliza:
+O projeto utiliza NodeJS
+
+# :globe_with_meridians: Frontend
+
+O projeto utiliza o ReactJS
+
+# :iphone: Mobile
+
+> #### Em construção
+
+#### Passo-a-passo para rodar a aplicação
+
+Faça o download do repositório ou realize um `git clone` para sua máquina. Esta aplicação utiliza:
 
 - [Express](https://expressjs.com/pt-br/) como framework para criação de rotas, etc.
 - [Knex](http://knexjs.org/) como SQL Query Builder
 - [Sqlite](https://www.sqlite.org/index.html) como banco de dados da aplicação
 
----
+##### Server
 
-#### Passo-a-passo
-
-Após ter a aplicação em sua máquina, abra a pasta em seu terminal e instale as dependências com:
+Após ter a aplicação em sua máquina, abra a pasta em seu terminal acesse a pasta **server** e instale as dependências com:
 
 > `npm install` ou `yarn add`
 
-Com a instalação das dependências feita você pode rodar o servidor com:
+Repita a mesma coisa na pasta **dev**
+
+Com a instalação das dependências do servidor feita você pode rodá-lo com:
 
 > `npm run dev` ou `yarn dev`
 
@@ -49,15 +61,13 @@ Este comando gerará a tabela **items** com as imagens que estão na pasta **upl
 
 ---
 
-###### Tendo feito os passos acima, sua aplicação já estará funcionando.
+##### Web
 
-# :globe_with_meridians: Frontend
+Com o servidor rodando, acesse a pasta **web** pelo seu terminal e rode o comando:
 
-> #### Em construção
+> `npm run start` ou `yarn start`
 
-# :iphone: Mobile
-
-> #### Em construção
+---
 
 # :memo: Licença
 
