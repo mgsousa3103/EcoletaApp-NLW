@@ -37,7 +37,7 @@ Faça o download do repositório ou realize um `git clone` para sua máquina. Es
 
 Após ter a aplicação em sua máquina, abra a pasta em seu terminal acesse a pasta **server** e instale as dependências com:
 
-> `npm install` ou `yarn add`
+> `npm install` ou `yarn`
 
 Repita a mesma coisa na pasta **dev**
 
