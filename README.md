@@ -1,76 +1,48 @@
+<h1 align="center">
+<br>
+  <img src="https://user-images.githubusercontent.com/22710485/83949064-1ee0d300-a7f8-11ea-8493-61415deea3bb.png" alt="Ecoleta" width="120">
+<br>
+<br>
+Ecoleta
+</h1>
+
+<p align="center">This Project, which consists of creating an application with the objective of working as a marketplace between organizations and people for the collection of recyclable waste</p>
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/github/license/mgsousa3103/ecoleta-app-nlw" alt="License MIT">
+  </a>
+</p>
+
 ![Página home da aplicação](https://user-images.githubusercontent.com/22710485/83574923-d5953880-a504-11ea-8ab9-5b1eb837d9dd.png)
 
-![](https://img.shields.io/github/issues/mgsousa3103/ecoleta-app-nlw) ![](https://img.shields.io/github/forks/mgsousa3103/ecoleta-app-nlw) ![](https://img.shields.io/github/stars/mgsousa3103/ecoleta-app-nlw) ![](https://img.shields.io/github/license/mgsousa3103/ecoleta-app-nlw)
-
-# :computer: Projeto
-
-Este projeto consiste na criação de uma aplicação cujo objetivo é funcionar como um marketplace entre empresas/organizações e pessoas para a coleta de resíduos recicláveis. Esta aplicação faz parte da semana **Next Level Week** promovida pela **Rocketseat**
-
-# :rocket: Tecnologias
-
-- [Typescript](https://www.typescriptlang.org/)
-- [NodeJS](https://nodejs.org/en/)
-- [ReactJS](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-
-# :hammer: Backend
-
-O projeto utiliza NodeJS
-
-# :globe_with_meridians: Frontend
-
-O projeto utiliza o ReactJS
-
-# :iphone: Mobile
-
-> #### Em construção
-
-#### Passo-a-passo para rodar a aplicação
-
-Faça o download do repositório ou realize um `git clone` para sua máquina. Esta aplicação utiliza:
-
-- [Express](https://expressjs.com/pt-br/) como framework para criação de rotas, etc.
-- [Knex](http://knexjs.org/) como SQL Query Builder
-- [Sqlite](https://www.sqlite.org/index.html) como banco de dados da aplicação
-
-##### Server
-
-Após ter a aplicação em sua máquina, abra a pasta em seu terminal acesse a pasta **server** e instale as dependências com:
-
-> `npm install` ou `yarn`
-
-Repita a mesma coisa na pasta **dev**
-
-Com a instalação das dependências do servidor feita você pode rodá-lo com:
-
-> `npm run dev` ou `yarn dev`
-
 ---
 
-##### Migrations e Seeds
+## Features
 
-Para rodar as migrations e criar as tabelas em seu banco de dados, use:
+- ⚛️ [ReactJS](https://pt-br.reactjs.org/)
+- ⚛️ [React Native](https://reactnative.dev/)
+- 💹 [NodeJS](https://nodejs.org/en/)
+- 📄 [Knex](http://knexjs.org/)
 
-> `npm run knex:migrate` ou `yarn knex:migrate`
+## Getting started
 
-A aplicação utiliza algumas imagens pré-estabelecidas, logo para ter acesso à elas, rode:
+1. Clone this repo using `git clone https://github.com/mgsousa3103/EcoletaApp-NLW.git`
+2. Move yourself to the appropriate directory: `cd EcoletaApp-NLW`
 
-> `npm run knex:seed` ou `yarn knex:seed`
+#### Getting started with backend server
 
-Este comando gerará a tabela **items** com as imagens que estão na pasta **uploads**.
+1. Move yourself to the backend folder: `cd server`
+2. Run `yarn` to install dependencies
+3. Make the migrations and seeds with: `yarn knex:migrate` and `yarn knex:seed`
+4. Run `yarn dev` to start the server
 
----
+#### Getting started with frontend app
 
-##### Web
+1. Move yourself to the frontend folder: `cd web`
+2. Run `yarn` to install dependencies
+3. Run `yarn start` to start the web application
 
-Com o servidor rodando, acesse a pasta **web** pelo seu terminal e rode o comando:
+## License
 
-> `npm run start` ou `yarn start`
-
----
-
-# :memo: Licença
-
-Projeto sob a licença [MIT](https://choosealicense.com/licenses/mit/). Para mais detalhes acesse [LICENSE](LICENSE.md)
-
-Made by [Matheus Guedes](https://www.linkedin.com/in/matheusgsousa/) :metal:
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) page for details
