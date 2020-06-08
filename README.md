@@ -6,7 +6,7 @@
 Ecoleta
 </h1>
 
-<p align="center">This Project, which consists of creating an application with the objective of working as a marketplace between organizations and people for the collection of recyclable waste</p>
+<p align="center">This project which consists of creating an application with the objective of working as a marketplace between organizations and people for the collection of recyclable waste</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
